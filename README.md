@@ -42,6 +42,8 @@
 
 **学习通**：[https://pan-yz.cldisk.com/v2/external/resourceDetail.html?appid=2539F541-76D2-4949-9F18-52C967AE8F47&nonce=-1057769706&timestamp=1771773068585&showAppBar=true&puid=413280626&autoPreview=true&objectId=a9fcaad1de5a42df4b66f0075fe2abf5&signature=c0bf479a66d588031f92d6f6d3b62095](https://pan-yz.cldisk.com/v2/external/resourceDetail.html?appid=2539F541-76D2-4949-9F18-52C967AE8F47&nonce=-1057769706&timestamp=1771773068585&showAppBar=true&puid=413280626&autoPreview=true&objectId=a9fcaad1de5a42df4b66f0075fe2abf5&signature=c0bf479a66d588031f92d6f6d3b62095)
 
+**阿里云盘**：[https://www.alipan.com/s/cHZN1BduHAb](https://www.alipan.com/s/cHZN1BduHAb)
+
 **蓝奏云优享版**：[https://www.ilanzou.com/s/R6iMnYvI](https://www.ilanzou.com/s/R6iMnYvI)
 
 **123云盘**：[https://www.123865.com/s/MKaEjv-rTWVv](https://www.123865.com/s/MKaEjv-rTWVv)
