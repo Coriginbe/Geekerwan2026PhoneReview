@@ -57,6 +57,4 @@
 
 [CN-LPani/GeekerWan-Backup: 【持续更新】免登陆不限速极客湾2026零售机大横评补档链接](https://github.com/CN-LPani/GeekerWan-Backup)
 
-[landsspacesss/Geekerwan_video: 极客湾手机性能大横评视频补档](https://github.com/landsspacesss/Geekerwan_video)
-
 [furina315/Geekerwan-2026GamePerformanceTest: 【极客湾】手机游戏性能大横评：厂商作弊太疯狂的补档](https://github.com/furina315/Geekerwan-2026GamePerformanceTest)
