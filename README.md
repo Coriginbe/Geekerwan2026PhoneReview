@@ -7,7 +7,7 @@
 
 ### YouTube
 
-**极客湾Geekerwan**：[https://www.youtube.com/watch?v=hDambRVqOp8](https://www.youtube.com/watch?v=hDambRVqOp8)
+**极客湾Geekerwan**：[https://youtu.be/hDambRVqOp8](https://youtu.be/hDambRVqOp8)
 
 
 ## 视频信息
