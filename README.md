@@ -29,14 +29,14 @@
 
 科技数码
 
-### 下载
+## 下载
 
-#### 极客湾
+### 极客湾
 
 **夸克网盘**：[https://pan.quark.cn/s/8d35e445caaf](https://pan.quark.cn/s/8d35e445caaf)  
 *~~**百度网盘**：[https://pan.baidu.com/s/1ETOiDQAnXhw_4JAGLPtu6Q?pwd=2026](https://pan.baidu.com/s/1ETOiDQAnXhw_4JAGLPtu6Q?pwd=2026)~~（已失效）*
 
-#### 个人
+### 个人
 
 **阿里云盘**：[https://www.alipan.com/s/cHZN1BduHAb](https://www.alipan.com/s/cHZN1BduHAb)
 
@@ -48,7 +48,7 @@
 
 **学习通**：[https://pan-yz.cldisk.com/v2/external/resourceDetail.html?appid=2539F541-76D2-4949-9F18-52C967AE8F47&nonce=-1057769706&timestamp=1771773068585&showAppBar=true&puid=413280626&autoPreview=true&objectId=a9fcaad1de5a42df4b66f0075fe2abf5&signature=c0bf479a66d588031f92d6f6d3b62095](https://pan-yz.cldisk.com/v2/external/resourceDetail.html?appid=2539F541-76D2-4949-9F18-52C967AE8F47&nonce=-1057769706&timestamp=1771773068585&showAppBar=true&puid=413280626&autoPreview=true&objectId=a9fcaad1de5a42df4b66f0075fe2abf5&signature=c0bf479a66d588031f92d6f6d3b62095)
 
-#### 网友
+### 网友
 
 **Torrent**：[magnet:?xt=urn:btih:fa8df5de6114c0084ee69be2bd13d95ec46e9573&xt=urn:btmh:12200f95f727faaff6920920963e19ae8257823733bc9cf17da1efc3b3872c5e98fc](magnet:?xt=urn:btih:fa8df5de6114c0084ee69be2bd13d95ec46e9573&xt=urn:btmh:12200f95f727faaff6920920963e19ae8257823733bc9cf17da1efc3b3872c5e98fc)
 
