@@ -7,7 +7,11 @@
 
 ### YouTube
 
-**极客湾Geekerwan**：[https://youtu.be/hDambRVqOp8](https://youtu.be/hDambRVqOp8)
+**[极客湾Geekerwan](https://www.youtube.com/@geekerwan1024)**：[https://youtu.be/hDambRVqOp8](https://youtu.be/hDambRVqOp8)
+
+### SharePoint
+
+**[@4q72rxgqzy-spec](https://github.com/4q72rxgqzy-spec)**：[https://w9j4t-my.sharepoint.com/:v:/g/personal/fsc_w9j4t_onmicrosoft_com/IQCf5YjNx0VgSZw09_RKt80AAfdWwvCHuM7RvxP95emDwac](https://w9j4t-my.sharepoint.com/:v:/g/personal/fsc_w9j4t_onmicrosoft_com/IQCf5YjNx0VgSZw09_RKt80AAfdWwvCHuM7RvxP95emDwac)
 
 
 ## 视频信息
@@ -51,6 +55,8 @@
 ### 网友
 
 **Torrent**：[magnet:?xt=urn:btih:fa8df5de6114c0084ee69be2bd13d95ec46e9573&xt=urn:btmh:12200f95f727faaff6920920963e19ae8257823733bc9cf17da1efc3b3872c5e98fc](magnet:?xt=urn:btih:fa8df5de6114c0084ee69be2bd13d95ec46e9573&xt=urn:btmh:12200f95f727faaff6920920963e19ae8257823733bc9cf17da1efc3b3872c5e98fc)
+
+**OneDrive (SharePoint) - [@4q72rxgqzy-spec](https://github.com/4q72rxgqzy-spec)**：[https://w9j4t-my.sharepoint.com/:f:/g/personal/fsc_w9j4t_onmicrosoft_com/IgCDWRszh_xaQ4W7BnZtnXIoAX8DPrG00HZYadjJ_lVZICc](https://w9j4t-my.sharepoint.com/:f:/g/personal/fsc_w9j4t_onmicrosoft_com/IgCDWRszh_xaQ4W7BnZtnXIoAX8DPrG00HZYadjJ_lVZICc)
 
 
 ## 相关 Repositories
