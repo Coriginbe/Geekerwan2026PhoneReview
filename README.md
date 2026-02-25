@@ -67,4 +67,12 @@
 
 [happymidi/Geekerwan2026: 补档2026年极客湾春节测评视频](https://github.com/happymidi/Geekerwan2026)
 
+[Justpopcorn-TW/Geekerwan-reveal-cheat](https://github.com/Justpopcorn-TW/Geekerwan-reveal-cheat)
+
+[Maicy0609/Storm_Geeker_Backup: 补档了影视飓风和极客湾被下架的视频](https://github.com/Maicy0609/Storm_Geeker_Backup)
+
+[ZheFeng7110/Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review: 极客湾Geekerwan 2026 年视频《手机游戏性能大横评：厂商作弊太疯狂！》补档](https://github.com/ZheFeng7110/Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review)
+
+[litdow/geekerwan2026.2.22](https://github.com/litdow/geekerwan2026.2.22)
+
 [furina315/Geekerwan-2026GamePerformanceTest: 【极客湾】手机游戏性能大横评：厂商作弊太疯狂的补档](https://github.com/furina315/Geekerwan-2026GamePerformanceTest)
