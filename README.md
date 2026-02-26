@@ -7,7 +7,7 @@
 
 ### YouTube
 
-**[极客湾Geekerwan](https://www.youtube.com/@geekerwan1024)**：[https://youtu.be/hDambRVqOp8](https://youtu.be/hDambRVqOp8)
+**[极客湾Geekerwan](https://www.youtube.com/@geekerwan1024)**：*~~[https://youtu.be/hDambRVqOp8](https://youtu.be/hDambRVqOp8)~~（Video unavailable）*
 
 ### SharePoint
 
