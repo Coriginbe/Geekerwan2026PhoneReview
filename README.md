@@ -2,7 +2,7 @@
 
 极客湾2026零售机性能横评
 
-**链接失效请 [New issue](https://github.com/Coriginbe/Geekerwan2026PhoneReview/issues/new/choose) ，讨论闲聊可至 [Discussions](https://github.com/Coriginbe/Geekerwan2026PhoneReview/discussions) 。**
+**链接失效或补充链接请 [New issue](https://github.com/Coriginbe/Geekerwan2026PhoneReview/issues/new/choose) ，讨论闲聊可至 [Discussions](https://github.com/Coriginbe/Geekerwan2026PhoneReview/discussions) 。**
 
 
 ## 在线观看
